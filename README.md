@@ -1,5 +1,7 @@
 # xc-ui-pc-sysmanage
 
+## 学成在线教学页面cms管理前端工程
+
 > xc-ui-pc-sysmanage
 
 ## Build Setup
@@ -28,3 +30,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+[学成在线教学Service端](https://github.com/181junruo/XC_service)
+
+[学成在线教学xc-ui-pc-teach课程管理前端工程](https://github.com/181junruo/xc-ui-pc-teach)
